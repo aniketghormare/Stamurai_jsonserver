@@ -1,0 +1,19 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "Learn CSS",
+        "completed": true
+      },
+      {
+        "title": "XYZ",
+        "completed": true,
+        "id": 2
+      },
+      {
+        "title": "Learn React1",
+        "completed": true,
+        "id": 3
+      }
+    ]
+  }
